@@ -66,4 +66,4 @@ WIN_COMBINATIONS = [
   [0,4,8]
 ]
 
-puts winner ['X', 'X', 'X', 'O', 'O', '', '', '', '']
+puts winner ['O', 'O', 'O', 'X', 'X', '', '', '', 'X']
